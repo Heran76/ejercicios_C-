@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/antonioheredia/Documents/curso/Hello42/Hello_C/repositorio",
-      "program": "/Users/antonioheredia/Documents/curso/Hello42/Hello_C/repositorio/build/Debug/outDebug"
+      "cwd": "/Users/antonioheredia/Documents/curso/Hello42/Hello_C/repositorio/OperadoresExpresiones",
+      "program": "/Users/antonioheredia/Documents/curso/Hello42/Hello_C/repositorio/OperadoresExpresiones/build/Debug/outDebug"
     }
   ]
 }

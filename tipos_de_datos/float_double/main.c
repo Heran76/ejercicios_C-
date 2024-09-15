@@ -7,7 +7,11 @@ int main(){
     float var;
     var = 39.9;  //la parte separador es un punto no la coma
     
-    printf("%d", sizeof var);
+   double varuno;
+   varuno = 3.567E-22;
+
+    printf("%f\n", var);
+    printf("%e",varuno);
 
     // no adminte ni short, long ni unsigned.
     //tamaño inicial

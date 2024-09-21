@@ -11,6 +11,6 @@
 int main()
 {
     int a;
-    a = (3-5)*7
+    a = (3-5)*7;
     return 0;
 }

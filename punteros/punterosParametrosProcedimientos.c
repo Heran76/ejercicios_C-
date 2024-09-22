@@ -12,7 +12,7 @@ void procd1(int *a) // aqui declaramos el parametro como puntero
 int main()
 {
      int a = 125;
-     procd1(&a); // para pasar el contenido de la funcion hay que adignarele la memoria como parámetro
+     procd1(&a); // para pasar el contenido del procedimiento hay que adignarele la memoria como parámetro
      printf("%d",a);
      return 0;
 }

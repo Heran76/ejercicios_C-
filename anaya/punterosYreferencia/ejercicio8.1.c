@@ -15,7 +15,7 @@ int main(void)
     fflush(stdin);
 
     /*Calculamos el año nacimiento*/
-    anio_nacimiento= edad - anio_actual;
+    anio_nacimiento= anio_actual - edad;
     printf("Su año de nacimientos es %d", anio_nacimiento);
     return 0;
 }

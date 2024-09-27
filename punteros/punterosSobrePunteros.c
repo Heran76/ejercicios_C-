@@ -13,6 +13,7 @@ int main()
     *p1 = 67;
     **p2 = 1987;
     
+    
     printf("%d\n",a);
     return 0;
 }
